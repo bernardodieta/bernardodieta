@@ -34,8 +34,7 @@ Aquí tienes algunas de las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
----
-[![bernardodieta's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bernardodieta&theme=tokyonight)](https://git.io/praveenscience)
+
 
 ### 📊 Estadísticas de GitHub
 
