@@ -40,10 +40,7 @@ Aquí tienes algunas de las tecnologías con las que trabajo:
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardodieta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bernardo's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardodieta&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  </p>
+
 </div>
 
 <div align="center">
