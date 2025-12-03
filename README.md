@@ -57,7 +57,7 @@ Aquí tienes algunas de las tecnologías con las que trabajo:
 Si quieres contactarme para colaborar o simplemente saludar:
 
 - **LinkedIn:** [Bernardo Dieta](https://www.linkedin.com/in/bernardo-dieta/) <!-- Por favor verifica este enlace -->
-- **Email:** [Tu Email Aquí](mailto:tu-email@ejemplo.com)
+- **Email:** [bernardodieta@gmail.com](mailto:bernardodieta@gmail.com)
 
 <!--
 **bernardodieta/bernardodieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
