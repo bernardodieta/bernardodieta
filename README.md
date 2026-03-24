@@ -29,7 +29,7 @@ Currently exploring **AI-driven workflows**, building and deploying **MCP server
 
 - 🔭 Currently working as **Full Stack Engineer** at **Jaak-IT**
 - 🏗️ Previously **Technical Lead** at **Black Patch**
-- 🎓 **B.A. in Multimedia Design** — Escuela de Artes Da Vinci, Buenos Aires
+- 🎓 Certified in **Full Stack Development**, **SQL** & **Python** — CoderHouse
 - 🌎 Based in **Mexico** | Spanish (Native) & English (B2)
 
 ---
@@ -150,5 +150,5 @@ marketing campaigns.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing+together" alt="Thanks" />
 </div>
