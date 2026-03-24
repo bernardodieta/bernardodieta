@@ -109,12 +109,22 @@ Currently exploring **AI-driven workflows**, building and deploying **MCP server
 
 🏢 **Full Stack Developer** @ Jaak-IT *(2025 – 2026)*
 > Led the development of *Jaak Signa*, a digital signature and document certification SaaS platform. Designed scalable REST APIs and microservices on Node.js / NestJS.
+> Designed and implemented scalable REST APIs and microservices architecture on Node.js / NestJS. 
+> Collaborated closely with product and design teams using Agile/Scrum methodology.
 
 🏢 **Technical Lead** @ Black Patch *(2023 – 2025)*
-> Led end-to-end development of a scalable B2B web application. Architected Node.js backend with microservices pattern. Reduced production incidents by 20%.
+> Led end-to-end development of a scalable B2B web application serving multiple business clients. 
+> Architected Node.js backend with microservices pattern; defined API contracts and data flows.
+> Supervised QA processes and critical feature testing, reducing production incidents by 20%. 
 
 🧑‍💻 **Full Stack Developer & Consultant** — Freelance *(2023 – Present)*
-> Built B2B logistics platforms, travel agency apps, SimRacing tournament systems with real-time updates, and deployed MCP servers integrating LLMs with internal tools.
+> Developed a web application for a travel agency, implementing newsletter functionality, tour package management, and vendor management systems. 
+> Built a B2B logistics management platform using React and Node.js, deployed and maintained in production. 
+> Developed a tournament management system for SimRacing competitions including real-time updates, coaching workflows, registration flows, and payment integrations. 
+> Designed and deployed MCP servers integrating LLMs with internal tools and APIs, enabling AI-driven workflows across multiple internal systems. 
+> Integrated Claude and Gemini APIs to automate content generation pipelines for 
+marketing campaigns. 
+
 
 ---
 
