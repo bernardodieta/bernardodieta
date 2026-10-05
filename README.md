@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 About Me
 
-Full Stack Engineer with 3+ years of experience building production-grade web applications and scalable B2B platforms. I specialize in microservices architecture, REST APIs, and end-to-end product development using **React**, **Next.js**, **Node.js**, and **NestJS**.
+Full Stack Engineer with 4+ years of experience building production-grade web applications and scalable B2B platforms. I specialize in microservices architecture, REST APIs, and end-to-end product development using **React**, **Next.js**, **Node.js**, and **NestJS**.
 
 I've led development teams, architected backend systems, and shipped products across industries — from digital signature SaaS platforms to logistics management tools and real-time SimRacing tournament systems.
 
